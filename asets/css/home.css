@@ -1,0 +1,34 @@
+body {
+    background-color: darkgray;
+    color: aliceblue;
+}
+
+h1 {
+    text-align: center;
+}
+
+li {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+form {
+    margin-top: 5%;
+    margin-left: 35%;
+}
+
+input {
+    height: 1.3rem;
+    background-color: gray;
+    color: aliceblue
+}
+
+input::placeholder {
+    color: aliceblue;
+}
+
+button {
+    background-color: grey;
+    color: aliceblue;
+    height: 2rem;
+}
